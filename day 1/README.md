@@ -43,7 +43,7 @@ AWS needs to be configured within your terinal as the python code will be run wi
 
 ### 3. Setup python environment
 
-[Download] (https://www.python.org/downloads/) python from the website and install (for window users). Linux users can follow the steps highlighted on the official website depending on their flavor of linux. Don't forget to setup the environmental variables also. Obviously, you need python to allow you run .py scripts
+<a href="https://www.python.org/downloads/" target="_blank">Download</a> python from the website and install (for window users). Linux users can follow the steps highlighted on the official website depending on their flavor of linux. Don't forget to setup the environmental variables also. Obviously, you need python to allow you run .py scripts
 
 ### 4. folder structure.
 
