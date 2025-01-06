@@ -106,7 +106,7 @@ The next step is to actually do what we are here for. The code literally have th
 - call the main function
 
 Literally all of these are function (for Javascript people).
-The end product of the code will look like this (Here)["https://"]
+The end product of the code will look like this (Here)["https://github.com/KodenOps/devops_challenge/blob/main/day%201/src/weather_script.py"]
 
 Now, let's test what we've cooked so far by navigating to the `src forlder`
 Then run this command `python weather_dashboard.py`
