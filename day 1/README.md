@@ -43,7 +43,7 @@ AWS needs to be configured within your terinal as the python code will be run wi
 
 ### 3. Setup python environment
 
-(Download)["https://www.python.org/downloads/"] python from the website and install (for window users). Linux users can follow the steps highlighted on the official website depending on their flavor of linux. Don't forget to setup the environmental variables also. Obviously, you need python to allow you run .py scripts
+[Download]("https://www.python.org/downloads/") python from the website and install (for window users). Linux users can follow the steps highlighted on the official website depending on their flavor of linux. Don't forget to setup the environmental variables also. Obviously, you need python to allow you run .py scripts
 
 ### 4. folder structure.
 
@@ -106,7 +106,7 @@ The next step is to actually do what we are here for. The code literally have th
 - call the main function
 
 Literally all of these are function (for Javascript people).
-The end product of the code will look like this (Here)["https://github.com/KodenOps/devops_challenge/blob/main/day%201/src/weather_script.py"]
+The end product of the code will look like this [Here]("https://github.com/KodenOps/devops_challenge/blob/main/day%201/src/weather_script.py")
 
 Now, let's test what we've cooked so far by navigating to the `src forlder`
 Then run this command `python weather_dashboard.py`
