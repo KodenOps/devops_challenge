@@ -6,13 +6,16 @@ This is a basic cloud project where the game schedule for NBA games are continua
 
 In this project we will be making use of the following:
 
-- ### AWS Services
+### AWS Services
+
 - AWS SNS: This is the brain behind sending the mail/sms. It processes data and route it through one of its numerous integrated systems to send result to users.
 - AWS Lambda: this is a serverless function by AWS. It allows you to run lines of code without having to create a dedicated servers like EC2 to run it. Our code will be written in Python for this challenge
 - AWS EventBridge: This is like the machine that drives the running of the lambda code at interval. It runs the cron job that triggers the Lambda code to be executed based on the condition specified by the administrator
 - Sportdata API: This is the intermediary between the user and the server on which the NBA games information is stored. It fetches our data for us
-- ### Python 3.x
-- ### Sportdata API
+
+### Python 3.x
+
+### Sportdata API
 
 Click here to see Architecture
 
