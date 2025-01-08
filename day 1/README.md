@@ -9,7 +9,7 @@ This quick project test your understanding of the folliowing technologies
 
 In this project, Openweather API was utilized and this was fetched using python. The result was then parsed into json format before being stored inside an S3 bucket.
 
-<img src="./Day1_challence.png" alt="day 1 architecture"/>
+![Challenge Architecture](Day1_challence.png)
 
 ## STEP INVOLVED
 
