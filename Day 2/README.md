@@ -17,7 +17,9 @@ In this project we will be making use of the following:
 
 ### Sportdata API
 
-Click here to see Architecture
+## ARCHITECTURE
+
+![Architecture image](day2-1.png)
 
 ## FEATURES
 
