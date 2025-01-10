@@ -40,7 +40,7 @@ Firstly, let's setup the SNS Topic and subscribe our email to the topic
 - under protocol, select email and submit
 
 ## Create Policy for SNS
-
+The aim of this policy is to allow SNS to publish any data out. 
 - Navigate to IAM service console and click on the policy button by the side nav
 - click create policy
 - change from visual to json (under the Policy editor)
@@ -62,7 +62,7 @@ Firstly, let's setup the SNS Topic and subscribe our email to the topic
 ```
 
 ## Set up the role for Lambda
-
+This 
 - While still in the IAM console, click the role link and then proceed to create role
 - select AWS SERVICE as trusted entity type
 - Use case: Lambda
