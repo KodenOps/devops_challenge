@@ -1,6 +1,6 @@
 .env
 .git
-.requirement.txt
+.gitignore
 *.zip
 __pycache__
-.gitignore
+.requirement.txt
