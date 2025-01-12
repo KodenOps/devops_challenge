@@ -3,3 +3,4 @@
 .requirement.txt
 *.zip
 __pycache__
+.gitignore
