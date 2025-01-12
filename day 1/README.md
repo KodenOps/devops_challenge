@@ -7,6 +7,7 @@ This quick project test your understanding of the folliowing technologies
 - API fetching and processing
 - Work environment setup
 
+
 In this project, Openweather API was utilized and this was fetched using python. The result was then parsed into json format before being stored inside an S3 bucket.
 
 ![Challenge Architecture](day1.jpg)
