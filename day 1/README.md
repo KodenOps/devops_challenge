@@ -1,4 +1,4 @@
-## DAY 1: WARM UPS
+## DAY 1: FETCHING AND VISUALIZATION OF WEATHER INFORMATION WITH CLOUDWATCH 
 
 This quick project test your understanding of the folliowing technologies
 
@@ -6,8 +6,12 @@ This quick project test your understanding of the folliowing technologies
 - AWS S3 Setup
 - API fetching and processing
 - Work environment setup
+- AWS CloudWatch setup and Dashboard Creation
 
-In this project, Openweather API was utilized and this was fetched using python. The result was then parsed into json format before being stored inside an S3 bucket.
+In this project, Openweather API was utilized and this was fetched using python. The result was then parsed into json (or .csv for visualization) format before being stored inside an S3 bucket.
+
+NOTE: There are two files in this repo. One parse the output as json. While the one we are going to utilize for the visualization will be the file whose output is parsed to .csv format.
+
 
 ![Challenge Architecture](day1.jpg)
 
